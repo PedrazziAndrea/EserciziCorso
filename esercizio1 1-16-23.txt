@@ -1,0 +1,17 @@
+CPU	        Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, 3201 Mhz, 4 Cores, 4 Logical Processors
+
+GPU             NVIDIA GeForce GTX 950	
+
+Hard Disk       ATA TOSHIBA DT01ACA1 SCSI Disk Device (Size 931.51 GB (1,000,202,273,280 bytes))
+
+RAM             ChannelA-DIMM0  Samsung 4.00 GB
+                ChannelB-DIMM0  Kingston 4.00 GB
+
+Motherboard     ASUSTeK COMPUTER INC.  M52AD_M12AD_A_F_K31AD  Rev X.0x
+
+System info     Edition	        Windows 10 Home
+                Version	        21H2
+                Installed on	‎12/‎16/‎2022
+                OS build	19044.2486
+                Experience	Windows Feature Experience Pack 120.2212.4190.0
+
