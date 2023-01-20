@@ -1,0 +1,42 @@
+Esecizio 3
+
+Lista processi noti :
+
+
+1- Webex (Applicazione webinar e teleconferenza)
+
+2- Google Chrome (Browser web)
+
+3- Discord (Piattaforma video/messaggistica istantanea)
+
+4- Task Manager (Gestione attività)
+
+5- Notepad (Editor di testo)
+
+
+Lista processi pesanti :
+
+1- Cisco Webex Service (10% CPU)
+
+2- Task Manager (3% CPU)
+
+3- Free Download Manager (2% CPU)
+
+
+Processi esplicitamente aperti:
+
+-Webex
+
+-Google Chrome
+
+-Discord
+
+-Task Manager
+
+-Notepad
+
+
+
+
+
+

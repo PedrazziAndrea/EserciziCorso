@@ -1,0 +1,12 @@
+Esercizio 4
+
+Risultati ping a www.google.com :
+
+Ping statistics for 142.250.180.174:
+
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+Approximate round trip times in milli-seconds:
+
+Minimum = 13ms, Maximum = 22ms, Average = 18ms
+
